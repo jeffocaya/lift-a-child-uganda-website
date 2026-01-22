@@ -2,7 +2,7 @@
 
 A responsive nonprofit website built to support children with disabilities in Uganda through community-based rehabilitation, education, and advocacy programs.
 
-## 🚀 Live Demo
+## 🚀 Live Website
 https://jeffocaya.github.io/lift-a-child-uganda-website/
 ## 📋 Features
 - Single-page application navigation
