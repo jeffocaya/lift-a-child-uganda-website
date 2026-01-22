@@ -30,19 +30,15 @@ This project demonstrates:
 
 ## 📁 Project Structure
 lift-a-child-uganda-website/
-│
 ├── index.html
 ├── README.md
 ├── .gitignore
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── script.js
-└── images/
-└── (optional image folder)
-
-
+└── assets/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── script.js
+        
 ## 📱 Pages
 1. **Home** - Hero section with mission statement
 2. **About** - Organization history and values
