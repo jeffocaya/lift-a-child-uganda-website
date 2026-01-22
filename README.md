@@ -30,14 +30,21 @@ This project demonstrates:
 
 ## 📁 Project Structure
 lift-a-child-uganda-website/
-├── index.html
-├── README.md
-├── .gitignore
-└── assets/
-    ├── css/
-    │   └── style.css
-    └── js/
-        └── script.js
+│
+├── index.html              # Main HTML file
+├── README.md              # Project documentation
+├── CHANGELOG.md           # Version history
+├── CONTRIBUTING.md        # Contribution guidelines
+├── LICENSE               # MIT License
+├── package.json          # Project metadata
+├── .gitignore           # Git ignore rules
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css     # All styles (28KB)
+│   └── js/
+│       └── script.js     # All JavaScript (3KB)
+
         
 ## 📱 Pages
 1. **Home** - Hero section with mission statement
